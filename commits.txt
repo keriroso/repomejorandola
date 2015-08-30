@@ -1,0 +1,11 @@
+commit 4181dd965607a88fe877a79b6a06f25bc52f837c
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sun Aug 30 01:17:03 2015 -0500
+
+    Documentacion del Proyecto
+
+commit 2403736e5622e1232a1e09bb013976fc3309fa7d
+Author: Keriroso <keriroso@gmail.com>
+Date:   Sun Aug 30 01:05:42 2015 -0500
+
+    Readme.txt
